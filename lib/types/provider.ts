@@ -16,6 +16,7 @@ export type BuiltInProviderId =
   | 'glm'
   | 'siliconflow'
   | 'doubao'
+  | 'grok'
   | 'ollama'
   | 'llama-cpp';
 
